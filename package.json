@@ -1,0 +1,15 @@
+{
+  "name": "~TODO~",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "svelte-kit dev",
+    "build": "svelte-kit build",
+    "preview": "svelte-kit preview"
+  },
+  "devDependencies": {
+    "@beyonk/svelte-notifications": "^4.1.1",
+    "@sveltejs/kit": "next",
+    "svelte": "^3.34.0"
+  },
+  "type": "module"
+}
